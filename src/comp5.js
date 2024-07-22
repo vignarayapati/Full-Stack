@@ -3,7 +3,7 @@ function Comp5() {
     return(
         <div>
             
-            <h1>Reviews</h1>
+            <h1> Reviews </h1>
             <Comp5_1/>
         </div> 
     );
