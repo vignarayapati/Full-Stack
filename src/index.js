@@ -6,10 +6,11 @@ import  ReactDOM  from "react-dom/client";
 //import Comp1 from "./comp1";
 //import Ass2 from "./ass2";
 //import Ele from "./ele";
-import UseRef from "./useRef";
-
+//import UseRef from "./useRef";
+import Twel from "./twel";
+//import Reg from "./reg";
 
 
 const rootElement = document.getElementById('root')
 const rootRef = ReactDOM.createRoot(rootElement);
-rootRef.render(<UseRef/>);
+rootRef.render(<Twel/>);
