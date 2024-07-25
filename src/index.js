@@ -7,10 +7,14 @@ import  ReactDOM  from "react-dom/client";
 //import Ass2 from "./ass2";
 //import Ele from "./ele";
 //import UseRef from "./useRef";
-import Twel from "./twel";
+// import Twel from "./twel";
 //import Reg from "./reg";
-
+// import DataFetching from "./dataFetching";
+//import DataFetching2 from "./datafetching2";
+//import DataFetching3 from "./datafetching3";
+//import App1 from "./App1"
+import Navigation from "./Navigation"
 
 const rootElement = document.getElementById('root')
 const rootRef = ReactDOM.createRoot(rootElement);
-rootRef.render(<Twel/>);
+rootRef.render(<Navigation/>);

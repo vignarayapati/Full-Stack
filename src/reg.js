@@ -119,5 +119,6 @@ function Reg() {
         </div>
         
     );
+    <Navigation></Navigation>
 }
 export default Reg;
